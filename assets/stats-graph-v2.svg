@@ -1,0 +1,21 @@
+<svg width="760" height="220" viewBox="0 0 760 220" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="220" rx="22" fill="#080808"/>
+  <rect x="1" y="1" width="758" height="218" rx="21" fill="none" stroke="#1D1D1F"/>
+  <text x="34" y="45" fill="#F4F4F5" font-family="Inter, Arial, sans-serif" font-size="18" font-weight="650">GitHub</text>
+  <text x="34" y="69" fill="#71717A" font-family="Inter, Arial, sans-serif" font-size="12">meu espaço para registrar estudos, projetos e evolução.</text>
+
+  <rect x="34" y="98" width="216" height="88" rx="15" fill="#0E0E10" stroke="#202024"/>
+  <text x="54" y="126" fill="#71717A" font-family="Inter, Arial, sans-serif" font-size="11" letter-spacing="1">FOCO</text>
+  <text x="54" y="156" fill="#F4F4F5" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="600">consistência</text>
+  <text x="54" y="176" fill="#71717A" font-family="Inter, Arial, sans-serif" font-size="11">aprender um pouco todos os dias</text>
+
+  <rect x="272" y="98" width="216" height="88" rx="15" fill="#0E0E10" stroke="#202024"/>
+  <text x="292" y="126" fill="#71717A" font-family="Inter, Arial, sans-serif" font-size="11" letter-spacing="1">AGORA</text>
+  <text x="292" y="156" fill="#F4F4F5" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="600">Python</text>
+  <text x="292" y="176" fill="#71717A" font-family="Inter, Arial, sans-serif" font-size="11">base, lógica e prática</text>
+
+  <rect x="510" y="98" width="216" height="88" rx="15" fill="#0E0E10" stroke="#202024"/>
+  <text x="530" y="126" fill="#71717A" font-family="Inter, Arial, sans-serif" font-size="11" letter-spacing="1">OBJETIVO</text>
+  <text x="530" y="156" fill="#F4F4F5" font-family="Inter, Arial, sans-serif" font-size="17" font-weight="600">evoluir</text>
+  <text x="530" y="176" fill="#71717A" font-family="Inter, Arial, sans-serif" font-size="11">e ampliar minha stack com o tempo</text>
+</svg>

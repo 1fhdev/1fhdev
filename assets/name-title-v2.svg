@@ -1,0 +1,12 @@
+<svg width="760" height="150" viewBox="0 0 760 150" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="150" rx="22" fill="#080808"/>
+  <rect x="1" y="1" width="758" height="148" rx="21" fill="none" stroke="#1D1D1F"/>
+  <circle cx="42" cy="38" r="5" fill="#6B7280"/>
+  <circle cx="58" cy="38" r="5" fill="#3F3F46"/>
+  <circle cx="74" cy="38" r="5" fill="#27272A"/>
+  <text x="38" y="89" fill="#F5F5F5" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="700" letter-spacing="-1">FhDev</text>
+  <text x="40" y="118" fill="#8B8B91" font-family="Inter, Arial, sans-serif" font-size="15" font-weight="500">desenvolvedor na DevON · estudando Python</text>
+  <rect x="661" y="50" width="61" height="28" rx="14" fill="#111113" stroke="#27272A"/>
+  <circle cx="679" cy="64" r="4" fill="#A1A1AA"/>
+  <text x="690" y="69" fill="#A1A1AA" font-family="Inter, Arial, sans-serif" font-size="11">dev</text>
+</svg>
